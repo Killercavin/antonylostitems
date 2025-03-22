@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:lostitems/AccountScreen.dart';
-import 'package:lostitems/AdminDashboard.dart';
-import 'package:lostitems/HomePage.dart';
-import 'package:lostitems/LostItemReportScreen.dart';
+import 'package:lostitems/account_screen.dart';
+import 'package:lostitems/admin_dashboard.dart';
+import 'package:lostitems/home_page.dart';
+import 'package:lostitems/lostitem_eportscreen.dart';
 
 
 import 'package:lostitems/claimitem.dart';

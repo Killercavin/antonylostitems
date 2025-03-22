@@ -6,7 +6,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lostitems/user_credentials.dart';
-import 'Login_screen.dart';
+import 'login_screen.dart';
 
 import 'package:intl_phone_field/intl_phone_field.dart';
 

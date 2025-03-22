@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'EditAccount.dart';
+import 'edit_account.dart';
 class AccountScreen extends StatelessWidget {
   const AccountScreen({super.key});
 
